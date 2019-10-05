@@ -14,7 +14,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "node app.js"
   },
   "author": "Marcus Monterroso",
   "license": "ISC"
